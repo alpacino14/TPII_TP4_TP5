@@ -1,0 +1,10 @@
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\bin\Debug\TP4 C.exe.config
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\bin\Debug\TP4 C.exe
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\bin\Debug\TP4 C.pdb
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4 C.csproj.AssemblyReference.cache
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4_C.Form1.resources
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4_C.Properties.Resources.resources
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4 C.csproj.GenerateResource.cache
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4 C.csproj.CoreCompileInputs.cache
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4 C.exe
+C:\Users\alpa_\Desktop\TP4 C\TP4 C\obj\Debug\TP4 C.pdb
